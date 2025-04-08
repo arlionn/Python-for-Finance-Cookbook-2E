@@ -8,10 +8,11 @@ Paperback: 740 pages
 Publisher: Packt Publishing  
 Language: English
 
-[<img src="./.img/book_cover.png" width="248">]()
+[<img src="./.img/book_cover.png" width="248">](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20B/CSE%20%20IT%20AIDS%20ML/Python%20for%20Finance%20Cookbook%20(2022).pdf)
 
 ## Links
 
+- [-PDF-](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20B/CSE%20%20IT%20AIDS%20ML/Python%20for%20Finance%20Cookbook%20(2022).pdf)
 - [Amazon Page](https://amzn.to/3YUMyA9)
 - [Packt Page](https://www.packtpub.com/product/python-for-finance-cookbook-second-edition/9781803243191)
 
@@ -39,7 +40,7 @@ Language: English
 
 ## Quoting 
 
-Eryk Lewinson. *Python For Finance Cookbook, 2nd Edition*. Packt Publishing, 2022.
+Eryk Lewinson. *Python For Finance Cookbook, 2nd Edition*. Packt Publishing, 2022. [-PDF-](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20B/CSE%20%20IT%20AIDS%20ML/Python%20for%20Finance%20Cookbook%20(2022).pdf)
 
     @book{Lewinson2022,  
     address = {Birmingham, UK},  
